@@ -8,4 +8,4 @@
 
 
 #使用： python zhihu.py id
-id为问题的id： https://www.zhihu.com/question/35461941， id为35461941
+id为问题的id： https://www.zhihu.com/question/35461941 ， id为35461941
